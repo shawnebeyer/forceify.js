@@ -1,6 +1,4 @@
-#jQuery plugin project - Week 6
-
-#jQuery plugin project - Week 6
+#Forceify
 
 Forceify is a simple, lightweight and easy to use jQuery plugin that adds a little fun to any site.
 
