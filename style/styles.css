@@ -237,6 +237,7 @@ code {
 
 .footer p {
 	margin: 0;
+	color: #ffffff;
 	text-transform: uppercase;
 	font-family: 'Lato', sans-serif;
 	font-weight: 100;
@@ -244,6 +245,10 @@ code {
 	font-size: 14px;
 }
 
-.footer a:hover {
+.footer a {
 	color: #ffffff;
+}
+
+.footer a:hover {
+	color: #58899a;
 }
