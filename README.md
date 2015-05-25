@@ -18,12 +18,6 @@ Forceify is a simple, lightweight and easy to use jQuery plugin that adds a litt
 
 2. Paste the following code into your primary JavaScript file (for example, main.js) to initialize forceify.js and to call the function:
 
-<<<<<<< HEAD
 "$(function() {
 	$('.force').forceify();
 });"
-=======
-"$(function( ) {
-	$('.force').forceify( );
-} );"
->>>>>>> edited some styling, site creds.
