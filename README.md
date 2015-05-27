@@ -1,6 +1,4 @@
-#jQuery plugin project - Week 6
-
-#jQuery plugin project - Week 6
+#Forceify
 
 Forceify is a simple, lightweight and easy to use jQuery plugin that adds a little fun to any site.
 
@@ -16,7 +14,7 @@ Forceify is a simple, lightweight and easy to use jQuery plugin that adds a litt
 
 1. Add a class of .force to any HTML element. The plug-in starts on a click, so why not start off with a link click?
 
-<a class="force">DEMO</a; 
+"&lt;a class="force"&gt;DEMO&lt;/a&gt; "
 
 2. Paste the following code into your primary JavaScript file (for example, main.js) to initialize forceify.js and to call the function:
 
